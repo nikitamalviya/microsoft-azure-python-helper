@@ -1,0 +1,13 @@
+python-dotenv
+click
+matplotlib
+azure-cognitiveservices-vision-customvision
+azure-storage-blob
+cognitive_service_vision_model_customization_python_samples
+importlib
+tqdm
+numpy
+opencv-python
+pandas
+openpyxl
+pillow
